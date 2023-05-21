@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://sauravchamoli.me/sitemap.xml
+Sitemap: https://sauravchamoli.me/sitemap-index.xml
 Host: https://sauravchamoli.me
